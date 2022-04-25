@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Matrixlibb.cpp
+C:\Users\Ирина\source\repos\DLL_TEST\DLL_TEST\Matrixlibb.cpp(474,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ирина\source\repos\DLL_TEST\DLL_TEST\Matrixlibb.cpp(508,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ирина\source\repos\DLL_TEST\DLL_TEST\Matrixlibb.cpp(535,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ирина\source\repos\DLL_TEST\DLL_TEST\Matrixlibb.cpp(569,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ирина\source\repos\DLL_TEST\DLL_TEST\Matrixlibb.cpp(702,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ирина\source\repos\DLL_TEST\DLL_TEST\Matrixlibb.cpp(703,30): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+     Создается библиотека C:\Users\Ирина\source\repos\DLL_TEST\Debug\DLL_TEST.lib и объект C:\Users\Ирина\source\repos\DLL_TEST\Debug\DLL_TEST.exp
+  DLL_TEST.vcxproj -> C:\Users\Ирина\source\repos\DLL_TEST\Debug\DLL_TEST.dll
